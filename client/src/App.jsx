@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import ProductSelector from './components/ProductSelector';
 import RentalForm from './components/RentalForm';
 import PriceDisplay from './components/PriceDisplay';
-import ReviewSection from './components/ReviewSection';
 import Testimonials from './components/Testimonials';
 import AvailabilityChecker from './components/AvailabilityChecker';
 import Navbar from './components/Navbar';
